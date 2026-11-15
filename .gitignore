@@ -1,0 +1,35 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.eggs/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- Sanal ortamlar ---
+.venv/
+venv/
+env/
+
+# --- TensorFlow / Keras ara çıktıları ---
+# (results/ ve içindeki *.tflite dosyası bilinçli olarak İZLENİR; örnek çıktılar görünsün.)
+*.h5
+*.keras
+*.ckpt*
+*.pb
+saved_model/
+checkpoints/
+logs/
+tensorboard/
+
+# --- Veri setleri (büyük dosyalar) ---
+data/*
+!data/.gitkeep
+
+# --- IDE / işletim sistemi ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
