@@ -4,6 +4,10 @@ Gazi Üniversitesi TUSAŞ-Kazan Meslek Yüksekokulu kapsamında yürütülen aka
 
 | | |
 |---|---|
+
+
+
+
 | **Araştırmacılar** | Emirhan Çetin, Oğuz Kağan Altunbaş |
 | **Danışman** | Dr. Öğr. Üyesi Kubilay Ayturan |
 | **Kurum** | Gazi Üniversitesi TUSAŞ-Kazan MYO |
